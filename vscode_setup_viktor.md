@@ -1,5 +1,6 @@
 
-- clone repository to local computer
+- Fork repo to own github 
+- clone the forked repository to local computer
   - git clone <repo ssh>
 - Open in vs code
   - code . 
