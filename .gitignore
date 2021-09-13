@@ -1,5 +1,5 @@
 # Viktors addition
-.cellfactories_venv/
+.venv_cellfactories/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
