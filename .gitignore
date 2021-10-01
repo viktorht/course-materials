@@ -132,3 +132,7 @@ dmypy.json
 .pyre/
 
 .DS_Store
+session5-exercise/GCF_000166295.1.faa.gz
+session5-exercise/GCF_000166295.1.faa.tsv
+.gitignore
+session5-exercise/Marinobacter-adhaerens-HP15-LB.xml
